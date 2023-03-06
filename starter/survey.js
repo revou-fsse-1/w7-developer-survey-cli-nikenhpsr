@@ -1,7 +1,12 @@
 import inquirer from "inquirer";
 
 const questions = [
-  // Type your question here
+  "What's your first name?",
+  "Hello %s What's your email address?",
+  "Are you experienced Developer?",
+  "How many years of experience you have with JavaScript?",
+  "What JavaScript library do you know?",
+  "What is your desired salary?"
 ];
 
 // run your command

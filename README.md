@@ -43,7 +43,7 @@ Configuration :
 
 2. Email Address
 
-I configured that the email address is required and it should contain "@" and "." characters. If you entered something without those characters then it you can continue to the next question.
+I configured that the email address is required and it should contain "@" and "." characters. If you entered something without those characters then it you can;t continue to the next question.
 
 Rules:
   - Input type "input"

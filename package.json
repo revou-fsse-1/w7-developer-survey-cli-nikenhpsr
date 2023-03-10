@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "inquirer": "^9.1.4"
-  }
+  },
+  "name": "w7-developer-survey-cli-nikenhpsr",
+  "description": "- Assignment Example for Week 7: Programming — JavaScript, Node.js, npm, TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revou-fsse-1/w7-developer-survey-cli-nikenhpsr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revou-fsse-1/w7-developer-survey-cli-nikenhpsr/issues"
+  },
+  "homepage": "https://github.com/revou-fsse-1/w7-developer-survey-cli-nikenhpsr#readme"
 }
